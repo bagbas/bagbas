@@ -28,6 +28,8 @@
 <br><br>
 
 > 🧑‍💻 **Code seriously. Have fun while doing it.**
+>
+> 🐈 **And yes, cats are part of the development team.**
 
 </div>
 
@@ -39,9 +41,17 @@
 
 ### Probably debugging something...
 
+<img src="./assets/gifs/cat-typing.gif" width="320" />
+
+<br>
+
+`Coding...` · `Debugging...` · `Meowing...`
+
 </div>
 
-```text id="w7m4kx"
+---
+
+```text
 ╭──────────────────────────────────────────────────────────────╮
 │                                                              │
 │  bagas@github:~$ whoami                                      │
@@ -78,7 +88,7 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="62%">
 
 Hi! I'm **Bagas Surya**, a Grade 12 **Software Engineering (RPL)** student at **SMK Negeri Tengaran**.
 
@@ -100,19 +110,20 @@ I'm still learning, so you'll probably find bugs in my projects.
 That's okay.
 
 **The bugs are learning opportunities.**
+
 ...at least that's what I tell myself. 😂
 
 </td>
 
-<td width="40%" align="center">
+<td width="38%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280">
+<img src="./assets/gifs/coding.gif" width="280" />
 
 <br><br>
 
 ### Current mood:
 
-`☕ + 💻 + 🎧`
+`☕ + 💻 + 🎧 + 🐈`
 
 </td>
 </tr>
@@ -120,23 +131,53 @@ That's okay.
 
 ---
 
-# 🧃 A Few Things About Me
+# 🐈 Important Information
 
 <div align="center">
 
-|     🧑‍💻 Developer    |   😎 Personality   | 🧠 Learning Style |
-| :--------------------: | :----------------: | :---------------: |
-| Full-Stack in progress |     Fun & chill    | Learn by building |
-|     React + Laravel    |     Don't panic    |    Break & fix    |
-|       API enjoyer      | Probably debugging |     Ask "why?"    |
+### My unofficial development assistant:
+
+<img src="./assets/gifs/cat-confused.gif" width="280" />
+
+<br>
+
+**Name:** `Probably Cat`
+
+**Job:** `Senior Bug Consultant`
+
+**Experience:** `9 lives`
+
+**Specialization:** `Staring at the screen`
+
+**Salary:** `Treats`
+
+**Productivity:** `Depends on the mood`
 
 </div>
 
 <br>
 
+> Unfortunately, the cat still hasn't fixed any bugs.
+
+---
+
+# 🧃 A Few Things About Me
+
 <div align="center">
 
-### My totally scientific developer statistics:
+|     🧑‍💻 Developer    |   😎 Personality   | 🧠 Learning Style |    🐈 Assistant   |
+| :--------------------: | :----------------: | :---------------: | :---------------: |
+| Full-Stack in progress |     Fun & chill    | Learn by building |        Cat        |
+|     React + Laravel    |     Don't panic    |    Break & fix    |     Also chill    |
+|       API enjoyer      | Probably debugging |     Ask "why?"    | Probably sleeping |
+
+</div>
+
+---
+
+# 📊 My Totally Scientific Statistics
+
+<div align="center">
 
 ```text
 Coding                 █████████████████░░░  85%
@@ -144,7 +185,9 @@ Debugging              ███████████████████
 Googling               ███████████████████░  95%
 Understanding the bug  ███████████░░░░░░░░░  55%
 Creating new bugs      ████████████████████ 100%
+Explaining the bug     ████████░░░░░░░░░░░░  40%
 Sleeping               ███████░░░░░░░░░░░░░  35%
+Cat appreciation       ████████████████████ 100%
 ```
 
 *Statistics may or may not be scientifically accurate.* 🤓
@@ -157,10 +200,10 @@ Sleeping               ███████░░░░░░░░░░░░
 
 <div align="center">
 
-|     🎓 Education    |     💻 Focus    | 🏆 Main Projects |    ☕ Fuel    |
-| :-----------------: | :-------------: | :--------------: | :----------: |
-|     Grade 12 RPL    |    Full-Stack   |     ShoopAway    |    Coffee    |
-| SMK Negeri Tengaran | Web Development |      PackGo      | Sometimes... |
+|     🎓 Education    |     💻 Focus    | 🏆 Main Projects |   ☕ Fuel  |   🐈 Team  |
+| :-----------------: | :-------------: | :--------------: | :-------: | :--------: |
+|     Grade 12 RPL    |    Full-Stack   |     ShoopAway    |   Coffee  |    Cats    |
+| SMK Negeri Tengaran | Web Development |      PackGo      | Sometimes | Definitely |
 
 </div>
 
@@ -183,8 +226,9 @@ Sleeping               ███████░░░░░░░░░░░░
 
 <br><br>
 
-> 🏆 One of my biggest full-stack projects
-> 🐛 Bugs: **classified information**
+> 🏆 **One of my biggest full-stack projects**
+>
+> 🐛 Bugs: `classified information`
 
 </div>
 
@@ -204,7 +248,7 @@ The project combines frontend, backend, API, database, authentication, and state
 
 ### 🔄 System Flow
 
-```text id="m6t4r9"
+```text
 Customer
    │
    ├── Browse
@@ -254,8 +298,15 @@ Customer
 
 <div align="center">
 
-> **"It worked yesterday."**
-> — Every developer ever 😭
+<br>
+
+<img src="./assets/gifs/cat-typing.gif" width="230" />
+
+<br>
+
+### Meanwhile, the cat:
+
+`"Have you tried turning it off and on again?"` 🐈
 
 </div>
 
@@ -274,7 +325,7 @@ Customer
 
 <br><br>
 
-> 🚚 A full-stack platform for moving & transportation services
+> 🚚 **Full-stack platform for moving & transportation services**
 
 </div>
 
@@ -294,7 +345,7 @@ The application explores the workflow from selecting a service and vehicle to bo
 
 ### 🔄 Application Flow
 
-```text id="h6p4nw"
+```text
 Choose Service
       │
       ▼
@@ -337,7 +388,15 @@ Order Management
 
 <div align="center">
 
-> 🚚 **Pack it. Ship it. Debug it.** 😂
+<br>
+
+<img src="./assets/gifs/cat-dancing.gif" width="240" />
+
+<br>
+
+### PackGo shipped successfully.
+
+`Probably.` 😭
 
 </div>
 
@@ -391,11 +450,47 @@ Order Management
 
 ---
 
+# 🐛 Debugging Department
+
+<div align="center">
+
+<img src="./assets/gifs/cat-confused.gif" width="280" />
+
+<br><br>
+
+### Current investigation:
+
+```text
+╭─────────────────────────────────────────╮
+│                                         │
+│  ❌ Application doesn't work            │
+│                                         │
+│  🔎 Looking for the problem...          │
+│                                         │
+│  🔎 Looking harder...                   │
+│                                         │
+│  🔎 Looking at Stack Overflow...        │
+│                                         │
+│  🧠 Understanding the problem...        │
+│                                         │
+│  🔧 Fixing the problem...               │
+│                                         │
+│  ❗ New problem discovered               │
+│                                         │
+│  🐈 Cat has left the meeting.           │
+│                                         │
+╰─────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
 # 🧪 Developer Mode
 
 <div align="center">
 
-```text id="a3j6pt"
+```text
 ╭──────────────────────────────────────────╮
 │                                          │
 │  👤 Name        : Bagas Surya            │
@@ -404,11 +499,13 @@ Order Management
 │  🌐 Focus       : Full-Stack Development │
 │  ⚛️ Frontend    : React                  │
 │  🔥 Backend     : Laravel                │
-│  🗄️ Database    : MySQL                  │
+│  🗄️ Database    : MySQL                 │
+│  🔌 API         : REST                   │
 │  🎧 Coding Mode : Chill                  │
 │  ☕ Coffee      : Optional               │
 │  🐛 Bugs        : Yes                    │
-│  🧠 Motivation   : Keep Building         │
+│  🐈 Cat Support : Critical               │
+│  🧠 Motivation  : Keep Building          │
 │                                          │
 ╰──────────────────────────────────────────╯
 ```
@@ -417,11 +514,11 @@ Order Management
 
 ---
 
-# 🧠 My Development Philosophy
+# 🧠 How I Learn
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
+<img src="./assets/gifs/cat-typing.gif" width="300" />
 
 <br><br>
 
@@ -429,17 +526,88 @@ Order Management
 
 </div>
 
-I don't want to only memorize syntax.
+```text
+        📖 LEARN
+           │
+           ▼
+        💻 BUILD
+           │
+           ▼
+        💥 ERROR
+           │
+           ▼
+        🔎 SEARCH
+           │
+           ▼
+        🧠 UNDERSTAND
+           │
+           ▼
+        🔧 FIX
+           │
+           ▼
+        🚀 IMPROVE
+           │
+           └──────────────► BUILD AGAIN
+```
 
-I want to understand:
+> I don't want to only memorize syntax.
+>
+> I want to understand **why** the code works.
+>
+> And when it doesn't:
+>
+> **"WHY DOESN'T THIS WORK?!"** 😭
 
-> **Why does this work?**
+---
 
-And when it doesn't:
+# 🐈 Cat-Driven Development
 
-> **Why doesn't this work?!** 😭
+<div align="center">
 
-That's usually where the real learning starts.
+### Sometimes I don't code alone.
+
+<img src="./assets/gifs/cat-sleeping.gif" width="300" />
+
+<br><br>
+
+```text
+Me:
+"Let's finish this feature today."
+
+Cat:
+"meow."
+
+Me:
+"That's not very helpful."
+
+Cat:
+"meow."
+
+Me:
+"...fair enough."
+```
+
+</div>
+
+### Official workflow
+
+```text
+        💻 Code
+          ↓
+        🐛 Bug
+          ↓
+        🐈 Ask Cat
+          ↓
+        🐈 Stare
+          ↓
+        💡 Somehow get an idea
+          ↓
+        🔧 Fix Bug
+          ↓
+        🎉 Success
+          ↓
+        🐈 Cat gets the credit
+```
 
 ---
 
@@ -447,7 +615,7 @@ That's usually where the real learning starts.
 
 <div align="center">
 
-```text id="z0x1nm"
+```text
 HTML
   ↓
 CSS
@@ -468,10 +636,62 @@ More bugs 🐛
   ↓
 More learning 🧠
   ↓
+More cats 🐈
+  ↓
 ??? 👀
 ```
 
 ### The journey continues...
+
+</div>
+
+---
+
+# 😂 Developer Problems
+
+<div align="center">
+
+<img src="./assets/gifs/cat-confused.gif" width="250" />
+
+<br><br>
+
+### Things every developer eventually says:
+
+```text
+"It should work."
+
+"It worked on my machine."
+
+"Wait... why is this undefined?"
+
+"Okay, I found the bug."
+
+"Never mind. There are three bugs."
+
+"I'll fix it tomorrow."
+
+*tomorrow arrives*
+
+"Okay, let's rewrite the whole thing." 💀
+```
+
+<br>
+
+### Bonus:
+
+```text
+Me:
+"Finally, everything works!"
+
+Git:
+"Merge conflict."
+
+Me:
+"..."
+
+Cat:
+"meow."
+```
 
 </div>
 
@@ -495,34 +715,8 @@ More learning 🧠
 |    ⏳   | Deploy More Projects           |
 |    ⏳   | Explore New Technologies       |
 |    ⏳   | Become a better developer      |
-
-</div>
-
----
-
-# 😂 Developer Problems
-
-<div align="center">
-
-### Things every developer eventually says:
-
-```text
-"It should work."
-
-"It worked on my machine."
-
-"Wait... why is this undefined?"
-
-"Okay, I found the bug."
-
-"Never mind. There are three bugs."
-
-"I'll fix it tomorrow."
-
-*tomorrow arrives*
-
-"Okay, let's rewrite the whole thing." 💀
-```
+|   ♾️   | Keep learning                  |
+|   ♾️   | Keep building                  |
 
 </div>
 
@@ -535,6 +729,26 @@ More learning 🧠
 <img src="https://github-readme-stats.vercel.app/api?username=bagbas&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" />
 
 <img src="https://github-readme-streak-stats.demolab.com?user=bagbas&hide_border=true" height="170" />
+
+</div>
+
+---
+
+# 🏆 Final Boss
+
+<div align="center">
+
+<img src="./assets/gifs/cat-dancing.gif" width="280" />
+
+<br><br>
+
+### Successfully reached the bottom.
+
+### You survived my README. 🎉
+
+<br>
+
+`Achievement Unlocked: README Explorer`
 
 </div>
 
@@ -560,23 +774,31 @@ More learning 🧠
 
 `No formal meeting required. 😎`
 
+<br>
+
+`Cats are welcome. 🐈`
+
 </div>
 
 ---
 
 <div align="center">
 
-## 👋 Thanks for stopping by!
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=650&lines=Keep+learning.;Keep+building.;Don't+fear+the+bugs.;See+you+in+the+next+commit!+%F0%9F%9A%80" />
-
-<br><br>
-
-### ☕ `CODE` · 🎧 `CHILL` · 💻 `BUILD` · 🐛 `DEBUG` · 🚀 `REPEAT`
+<img src="./assets/gifs/cat-sleeping.gif" width="220" />
 
 <br>
 
-> **"One bug at a time."** 🐛
+### 👋 Thanks for stopping by!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=650&lines=Keep+learning.;Keep+building.;Don't+fear+the+bugs.;Take+a+break+sometimes.;See+you+in+the+next+commit!+%F0%9F%9A%80" />
+
+<br><br>
+
+### ☕ `CODE` · 🎧 `CHILL` · 💻 `BUILD` · 🐛 `DEBUG` · 🐈 `MEOW`
+
+<br>
+
+> **One bug at a time.** 🐛
 
 <br>
 
