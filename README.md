@@ -1,120 +1,287 @@
+<div align="center">
+
 # BAGAS SURYA
 
-### Software Engineering Student · Full-Stack Developer in Progress
+### `Software Engineering Student` · `Full-Stack Developer in Progress`
 
 **Grade 12 — Rekayasa Perangkat Lunak (RPL)**
 **SMK Negeri Tengaran**
 
-> Building things, breaking things, understanding why, and building them better.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Web+Applications;Learning+Full-Stack+Development;React+%2B+Laravel+%2B+MySQL;Always+Learning+Something+New" alt="Typing SVG" />
+
+<br>
+
+<a href="#-about-me">
+  <img src="https://img.shields.io/badge/About%20Me-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="#-featured-projects">
+  <img src="https://img.shields.io/badge/Projects-161B22?style=for-the-badge&logo=rocket&logoColor=white" />
+</a>
+<a href="#-tech-stack">
+  <img src="https://img.shields.io/badge/Tech%20Stack-161B22?style=for-the-badge&logo=code&logoColor=white" />
+</a>
+<a href="#-contact">
+  <img src="https://img.shields.io/badge/Contact-161B22?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+> **"Build. Break. Understand. Improve. Repeat."**
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Bagas Surya**, a Software Engineering student who enjoys building web applications and learning how modern software systems work.
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-My main focus is **full-stack web development**, especially understanding how the frontend, backend, API, and database work together as one system.
+Hi! I'm **Bagas Surya**, a Grade 12 Software Engineering student from **SMK Negeri Tengaran**.
 
-I'm still learning, experimenting, and improving through real projects rather than only following tutorials.
+I'm interested in **web development**, especially understanding how frontend, backend, APIs, and databases work together to create a complete application.
+
+I'm currently focusing on becoming a better **full-stack developer** by building real projects and learning from the problems I encounter along the way.
+
+### What I'm currently doing
+
+* 🚀 Building full-stack web applications
+* ⚛️ Learning deeper React development
+* 🔥 Improving my Laravel & PHP skills
+* 🗄️ Learning better database design
+* 🔌 Working with REST APIs
+* 🌱 Improving Git & GitHub workflow
+* 🎨 Learning better UI/UX implementation
+
+<br clear="right"/>
+
+---
+
+## 🧩 What I Build
+
+<div align="center">
+
+| 🖥️ Frontend |   ⚙️ Backend   |   🗄️ Database  |      🔗 API     |
+| :----------: | :------------: | :-------------: | :-------------: |
+|     React    |     Laravel    |      MySQL      |     REST API    |
+|     Vite     |       PHP      |  Relational DB  |      Axios      |
+| Tailwind CSS |       MVC      | Database Design | API Integration |
+|    DaisyUI   | Authentication |  Relationships  |       JSON      |
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+## 🛒 ShoopAway
+
+### `Full-Stack Multi-Store E-Commerce Platform`
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+
+<br><br>
+
+**ShoopAway** is one of my largest web development projects.
+
+The project focuses on building a **multi-store e-commerce platform** where customers can browse products, manage their cart, place orders, and interact with different stores.
+
+### ✨ Main Focus
 
 ```text
-Currently focused on
-
-Frontend        → React, Vite, Tailwind CSS
-Backend         → Laravel, PHP, REST API
-Database        → MySQL
-Development     → Git, GitHub, API Integration
-Learning        → Full-Stack Development
+Customer
+   │
+   ├── Browse Products
+   ├── View Stores
+   ├── Add to Cart
+   ├── Checkout
+   └── Manage Orders
+          │
+          ▼
+      REST API
+          │
+          ▼
+       Laravel
+          │
+          ▼
+        MySQL
 ```
 
----
+### 🧠 What I Learned
 
-## 🚀 Featured Projects
+* Building a complete frontend-backend application
+* React component architecture
+* Laravel REST API development
+* Database relationships
+* Authentication & user roles
+* Cart state management
+* API integration
+* Git collaboration
+* Debugging real application problems
 
-### 🛒 ShoopAway
-
-**Full-stack multi-store e-commerce platform**
-
-ShoopAway is one of my biggest web development projects.
-The project focuses on building an e-commerce system where customers can browse products, manage their cart, place orders, and interact with multiple stores.
-
-**Built with:**
-
-`React` · `Vite` · `Laravel` · `MySQL` · `Tailwind CSS` · `DaisyUI` · `Axios` · `Zustand`
-
-**What I learned:**
-
-* Building a full-stack web application
-* Connecting React with a Laravel REST API
-* Designing database relationships
-* Managing application state
-* Building shopping cart functionality
-* Handling authentication and user roles
-* Working with Git and collaborative development
+</div>
 
 ---
 
-### 🚚 PackGo
+<div align="center">
 
-**Full-stack moving & transportation service platform**
+## 🚚 PackGo
 
-PackGo is a web application focused on moving and transportation services.
+### `Moving & Transportation Service Platform`
 
-The project includes service selection, vehicle/armada management, booking, checkout, payment flow, and order management.
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-**Built with:**
+<br><br>
 
-`React` · `Laravel` · `MySQL` · `REST API`
+**PackGo** is a full-stack web application focused on **moving and transportation services**.
 
-**What I learned:**
+The project explores how a service platform can handle the process from selecting a service and vehicle to booking, checkout, payment, and order management.
+
+### ✨ Main Focus
+
+```text
+Customer
+   │
+   ▼
+Choose Service
+   │
+   ▼
+Choose Armada
+   │
+   ▼
+Booking
+   │
+   ▼
+Checkout
+   │
+   ▼
+Payment
+   │
+   ▼
+Order Management
+```
+
+### 🧠 What I Learned
 
 * Designing service-based applications
 * Building booking workflows
-* Connecting frontend and backend systems
-* Working with transactional data
-* Creating multi-step checkout flows
-* Managing application data through APIs
+* Creating multi-step checkout processes
+* Connecting frontend with backend APIs
+* Handling transactional data
+* Building admin-side functionality
+* Working with Laravel and React together
+
+</div>
 
 ---
 
-## 🧰 Tech Stack
+# 🧰 Tech Stack
+
+<div align="center">
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
 
 ### Backend & Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
 
 ### Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+</div>
 
 ---
 
-## 🧠 Currently Learning
+# 📚 Currently Learning
 
-I'm currently improving my understanding of:
+<div align="center">
 
-* Full-stack web development
-* REST API architecture
-* Database design & relationships
-* Authentication & authorization
-* Frontend state management
-* Git & GitHub workflow
-* Clean and maintainable code
-* Better UI/UX implementation
+```text
+┌────────────────────────────────────────────────────┐
+│                                                    │
+│              FULL-STACK DEVELOPMENT                │
+│                                                    │
+│   React ────────┐                                  │
+│                 │                                  │
+│   Laravel ──────┼──────► REST API                  │
+│                 │             │                    │
+│   MySQL ────────┘             ▼                    │
+│                         Complete System             │
+│                                                    │
+└────────────────────────────────────────────────────┘
+```
+
+</div>
+
+### My current learning goals
+
+* 🧠 Better programming fundamentals
+* ⚛️ Advanced React concepts
+* 🔥 Laravel architecture
+* 🗄️ Database normalization & relationships
+* 🔐 Authentication & authorization
+* 🔌 REST API design
+* 🧹 Clean and maintainable code
+* 🌐 Deployment & production workflow
+* 🤝 Git collaboration
 
 ---
 
-## 📈 My Development Journey
+# 🛠️ How I Learn
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350" />
+
+</div>
+
+I learn best by **building real things**.
+
+My usual process looks something like this:
+
+```text
+        💡 IDEA
+          │
+          ▼
+       📖 LEARN
+          │
+          ▼
+       🧑‍💻 BUILD
+          │
+          ▼
+       💥 ERROR
+          │
+          ▼
+       🔎 DEBUG
+          │
+          ▼
+       🧠 UNDERSTAND
+          │
+          ▼
+       🔧 IMPROVE
+          │
+          ▼
+       🚀 BUILD AGAIN
+```
+
+> I don't want to only know **how** to write code.
+> I want to understand **why** the code works.
+
+---
+
+# 📈 Development Journey
+
+<div align="center">
 
 ```text
 HTML / CSS / JavaScript
@@ -126,120 +293,90 @@ HTML / CSS / JavaScript
         React
           │
           ▼
+   React + REST API
+          │
+          ▼
       Laravel + PHP
           │
           ▼
-      REST API
-          │
-          ▼
-    MySQL & Database
+        MySQL
           │
           ▼
     Full-Stack Projects
           │
           ▼
-     Keep Building 🚀
+       Keep Growing
 ```
 
-I'm currently at the stage where I'm trying to understand **how everything connects together**, not just how to write individual pieces of code.
+</div>
+
+Every project I've built has been part of the same process:
+
+**Learn → Build → Make mistakes → Debug → Understand → Improve**
 
 ---
 
-## 🛠️ How I Learn
-
-I learn best by building.
-
-Instead of only studying concepts, I try to turn them into actual projects and solve problems as they appear.
-
-```text
-Learn
-  ↓
-Build
-  ↓
-Break something
-  ↓
-Find the problem
-  ↓
-Understand the cause
-  ↓
-Fix it
-  ↓
-Improve
-  ↓
-Build again
-```
-
-Every project teaches me something new.
-
----
-
-## 🎯 Goals
+# 🎯 Goals
 
 ### Short Term
 
-* Improve my frontend development skills
-* Become more comfortable with Laravel
-* Understand backend architecture better
+* Improve my frontend skills
+* Become more confident with Laravel
+* Understand backend architecture
 * Improve database design
-* Build cleaner and more maintainable applications
+* Write cleaner code
+* Build more complete applications
 
 ### Long Term
 
-> Become a developer who understands not only **how to build software**, but also **why it should be built that way**.
+> Become a developer who understands not only **how to build software**, but also **why it should be built that way.**
 
 ---
 
-## 📚 Other Projects
+# 📊 GitHub Activity
 
-Besides my two main projects, I've also worked on smaller projects while learning different technologies.
+<div align="center">
 
-### 🧮 Car Credit Calculator
+<img src="https://github-readme-stats.vercel.app/api?username=bagbas&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" />
 
-A vanilla HTML, CSS, and JavaScript project for calculating car credit simulations.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bagbas&hide_border=true" height="170" />
 
-### 📚 Library Management System
-
-A Python-based application for managing library data and operations.
-
-These smaller projects are part of my learning journey toward becoming a better developer.
+</div>
 
 ---
 
-## 💭 Developer Mindset
+# 🌐 Connect With Me
 
-> **Don't just copy the code. Understand what the code is doing.**
+<div align="center">
 
-I'm still at the beginning of my journey, but every project gives me a better understanding of software development.
+<a href="https://github.com/bagbas">
+<img src="https://img.shields.io/badge/GitHub-Bagas%20Surya-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-The goal isn't to know everything.
+<a href="mailto:bagassurya5562@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-The goal is to **keep learning, keep building, and keep improving.**
+</div>
 
----
+<br>
 
-## 📊 GitHub
+<div align="center">
 
-I'm using GitHub not only to store my code, but also to document my progress as I learn software development.
+### 💬 Open to learning, collaborating, and building interesting things.
 
-```text
-Projects      → Build real things
-Repositories  → Document the journey
-Git            → Learn collaboration
-GitHub         → Share the work
-```
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in learning new things, exploring technologies, and building useful projects.
-
-If you're also learning software development:
-
-**Keep building. Keep experimenting. Keep improving. 🚀**
+</div>
 
 ---
 
-# KEEP BUILDING.
+<div align="center">
 
-`Code` · `Learn` · `Build` · `Improve`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+awesome.;Keep+learning.+Keep+building.+%F0%9F%9A%80" />
+
+<br><br>
+
+**`CODE` · `LEARN` · `BUILD` · `IMPROVE`**
+
+### KEEP BUILDING. 🚀
+
+</div>
