@@ -1,10 +1,10 @@
 <div align="center">
 
-# BAGAS SURYA
+# 👋 HEY, I'M BAGAS!
 
 ### `Software Engineering Student` · `Full-Stack Developer in Progress`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;I+build+web+applications;React+%2B+Laravel+%2B+MySQL;Learning+something+new+every+day;Currently+building+my+future+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Welcome+to+my+little+corner+of+GitHub!;I+build+web+applications;React+%2B+Laravel+%2B+MySQL;Currently+turning+coffee+into+code+%E2%98%95;Sometimes+the+code+works...+somehow+%F0%9F%98%AD" />
 
 <br>
 
@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Projects-0D1117?style=for-the-badge&logo=rocket&logoColor=white" />
 </a>
 <a href="#-tech-stack">
-<img src="https://img.shields.io/badge/Tech%20Stack-0D1117?style=for-the-badge&logo=code&logoColor=white" />
+<img src="https://img.shields.io/badge/Stack-0D1117?style=for-the-badge&logo=code&logoColor=white" />
 </a>
 <a href="#-contact">
 <img src="https://img.shields.io/badge/Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -25,36 +25,49 @@
 
 <img src="https://komarev.com/ghpvc/?username=bagbas&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" />
 
+<br><br>
+
+> 🧑‍💻 **Code seriously. Have fun while doing it.**
+
 </div>
 
 ---
 
 <div align="center">
 
-### 🟢 `STATUS: CURRENTLY BUILDING`
+## 🟢 `CURRENT STATUS`
+
+### Probably debugging something...
 
 </div>
 
-```text
+```text id="w7m4kx"
 ╭──────────────────────────────────────────────────────────────╮
 │                                                              │
 │  bagas@github:~$ whoami                                      │
 │                                                              │
 │  > Bagas Surya                                               │
-│  > Software Engineering Student                              │
-│  > Grade 12 — SMK Negeri Tengaran                            │
+│  > Grade 12 RPL Student                                      │
+│  > SMK Negeri Tengaran                                       │
 │                                                              │
-│  bagas@github:~$ focus                                       │
+│  bagas@github:~$ mood                                        │
 │                                                              │
-│  > Full-Stack Web Development                                │
-│  > React + Laravel + MySQL                                   │
-│  > Building real-world projects                             │
+│  > chill 😎                                                  │
 │                                                              │
-│  bagas@github:~$ status                                      │
+│  bagas@github:~$ currently                                   │
 │                                                              │
-│  > Learning... ███████████████████░░ 85%                     │
+│  > Building things                                           │
+│  > Learning things                                           │
+│  > Breaking things                                           │
+│  > Fixing things                                             │
 │                                                              │
-│  bagas@github:~$ _                                           │
+│  bagas@github:~$ coffee                                      │
+│                                                              │
+│  > ████████████████████░░ 92% ☕                             │
+│                                                              │
+│  bagas@github:~$ sleep                                       │
+│                                                              │
+│  > command not found                                         │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
 ```
@@ -69,19 +82,25 @@
 
 Hi! I'm **Bagas Surya**, a Grade 12 **Software Engineering (RPL)** student at **SMK Negeri Tengaran**.
 
-I'm interested in building web applications and understanding how the different parts of a system work together.
+I enjoy building web applications, learning new technologies, and figuring out why something that *should* work... doesn't. 😭
 
-My main focus right now is **full-stack development**.
+My main focus right now is **full-stack web development**.
 
-I enjoy working with:
+I like working with:
 
-* ⚛️ React for frontend
-* 🔥 Laravel & PHP for backend
-* 🗄️ MySQL for databases
-* 🔌 REST API for communication
-* 🧰 Git & GitHub for development workflow
+* ⚛️ React
+* 🔥 Laravel & PHP
+* 🗄️ MySQL
+* 🔌 REST API
+* 🎨 Tailwind CSS
+* 🧰 Git & GitHub
 
-I'm still learning, but I prefer learning by **building actual projects, solving problems, and debugging things that don't work.**
+I'm still learning, so you'll probably find bugs in my projects.
+
+That's okay.
+
+**The bugs are learning opportunities.**
+...at least that's what I tell myself. 😂
 
 </td>
 
@@ -91,7 +110,9 @@ I'm still learning, but I prefer learning by **building actual projects, solving
 
 <br><br>
 
-**BUILD → BREAK → DEBUG → LEARN → IMPROVE**
+### Current mood:
+
+`☕ + 💻 + 🎧`
 
 </td>
 </tr>
@@ -99,14 +120,15 @@ I'm still learning, but I prefer learning by **building actual projects, solving
 
 ---
 
-# ⚡ Quick Overview
+# 🧃 A Few Things About Me
 
 <div align="center">
 
-|     🎓 Education    |        💻 Focus        | 🚀 Main Projects |
-| :-----------------: | :--------------------: | :--------------: |
-|     Grade 12 RPL    | Full-Stack Development |     ShoopAway    |
-| SMK Negeri Tengaran |     Web Development    |      PackGo      |
+|     🧑‍💻 Developer    |   😎 Personality   | 🧠 Learning Style |
+| :--------------------: | :----------------: | :---------------: |
+| Full-Stack in progress |     Fun & chill    | Learn by building |
+|     React + Laravel    |     Don't panic    |    Break & fix    |
+|       API enjoyer      | Probably debugging |     Ask "why?"    |
 
 </div>
 
@@ -114,14 +136,31 @@ I'm still learning, but I prefer learning by **building actual projects, solving
 
 <div align="center">
 
+### My totally scientific developer statistics:
+
 ```text
-Frontend        Backend          Database        Tools
-─────────       ─────────        ─────────       ─────────
-React           Laravel          MySQL           Git
-Vite            PHP              SQL             GitHub
-Tailwind CSS    REST API         Relations       VS Code
-DaisyUI         MVC              CRUD            Postman
+Coding                 █████████████████░░░  85%
+Debugging              ████████████████████ 100%
+Googling               ███████████████████░  95%
+Understanding the bug  ███████████░░░░░░░░░  55%
+Creating new bugs      ████████████████████ 100%
+Sleeping               ███████░░░░░░░░░░░░░  35%
 ```
+
+*Statistics may or may not be scientifically accurate.* 🤓
+
+</div>
+
+---
+
+# ⚡ Quick Overview
+
+<div align="center">
+
+|     🎓 Education    |     💻 Focus    | 🏆 Main Projects |    ☕ Fuel    |
+| :-----------------: | :-------------: | :--------------: | :----------: |
+|     Grade 12 RPL    |    Full-Stack   |     ShoopAway    |    Coffee    |
+| SMK Negeri Tengaran | Web Development |      PackGo      | Sometimes... |
 
 </div>
 
@@ -131,7 +170,7 @@ DaisyUI         MVC              CRUD            Postman
 
 <div align="center">
 
-## 🛒 SHOOPAWAY
+# 🛒 ShoopAway
 
 ### `Multi-Store E-Commerce Platform`
 
@@ -144,7 +183,8 @@ DaisyUI         MVC              CRUD            Postman
 
 <br><br>
 
-> 🏆 **One of my biggest full-stack projects**
+> 🏆 One of my biggest full-stack projects
+> 🐛 Bugs: **classified information**
 
 </div>
 
@@ -152,35 +192,35 @@ DaisyUI         MVC              CRUD            Postman
 <tr>
 <td width="50%">
 
-### 🛍️ What is it?
+### 🛍️ What's ShoopAway?
 
-ShoopAway is a **multi-store e-commerce platform** designed to connect customers with different stores in one system.
+ShoopAway is a **multi-store e-commerce platform** where customers can browse products, interact with different stores, manage their cart, and place orders.
 
-The project combines frontend, backend, database, authentication, cart management, orders, and API integration.
+The project combines frontend, backend, API, database, authentication, and state management into one application.
 
 </td>
 
 <td width="50%">
 
-### 🔧 Main Concepts
+### 🔄 System Flow
 
-```text
+```text id="m6t4r9"
 Customer
    │
-   ├── Products
-   ├── Stores
-   ├── Cart
+   ├── Browse
+   ├── Shop
+   ├── Cart 🛒
    ├── Checkout
    └── Orders
-          │
-          ▼
-       REST API
-          │
-          ▼
-       Laravel
-          │
-          ▼
-        MySQL
+        │
+        ▼
+     REST API
+        │
+        ▼
+     Laravel 🔥
+        │
+        ▼
+      MySQL
 ```
 
 </td>
@@ -188,34 +228,42 @@ Customer
 </table>
 
 <details>
-<summary><b>✨ What I worked with in ShoopAway</b></summary>
+<summary><b>✨ Things I worked with</b></summary>
 
 <br>
 
-* React component development
-* Vite frontend environment
-* Laravel backend
-* REST API integration
-* Axios API communication
-* MySQL database
-* User authentication
-* Customer & owner functionality
-* Multi-store concept
-* Shopping cart
-* Order management
-* State management with Zustand
+* React
+* Vite
+* Laravel
+* PHP
+* MySQL
+* REST API
+* Axios
+* Zustand
 * Tailwind CSS
 * DaisyUI
+* Authentication
+* User roles
+* Shopping cart
+* Order management
+* Multi-store concept
 * Git collaboration
-* Debugging and API troubleshooting
+* Debugging
 
 </details>
+
+<div align="center">
+
+> **"It worked yesterday."**
+> — Every developer ever 😭
+
+</div>
 
 ---
 
 <div align="center">
 
-## 🚚 PACKGO
+# 🚚 PackGo
 
 ### `Moving & Transportation Service Platform`
 
@@ -226,7 +274,7 @@ Customer
 
 <br><br>
 
-> 🚚 **Full-stack platform for moving & transportation services**
+> 🚚 A full-stack platform for moving & transportation services
 
 </div>
 
@@ -234,11 +282,11 @@ Customer
 <tr>
 <td width="50%">
 
-### 📦 What is it?
+### 📦 What's PackGo?
 
-PackGo is a web application designed around **moving and transportation services**.
+PackGo is a web application focused on **moving and transportation services**.
 
-The system explores the workflow from choosing a service and vehicle through booking, checkout, payment, and order management.
+The application explores the workflow from selecting a service and vehicle to booking, checkout, payment, and order management.
 
 </td>
 
@@ -246,11 +294,11 @@ The system explores the workflow from choosing a service and vehicle through boo
 
 ### 🔄 Application Flow
 
-```text
+```text id="h6p4nw"
 Choose Service
       │
       ▼
-Choose Armada
+Choose Armada 🚚
       │
       ▼
    Booking
@@ -270,14 +318,13 @@ Order Management
 </table>
 
 <details>
-<summary><b>✨ What I learned from PackGo</b></summary>
+<summary><b>✨ Things I learned</b></summary>
 
 <br>
 
-* Building service-based applications
-* React frontend development
-* Laravel backend development
-* REST API integration
+* React frontend
+* Laravel backend
+* REST API
 * Booking workflow
 * Armada management
 * Multi-step checkout
@@ -287,6 +334,12 @@ Order Management
 * Frontend-backend communication
 
 </details>
+
+<div align="center">
+
+> 🚚 **Pack it. Ship it. Debug it.** 😂
+
+</div>
 
 ---
 
@@ -306,7 +359,7 @@ Order Management
 
 <br><br>
 
-### 🛠️ Development Tools
+### 🛠️ Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
@@ -314,7 +367,7 @@ Order Management
 
 ---
 
-# 🧠 What I'm Learning Right Now
+# 🧠 Currently Learning
 
 <div align="center">
 
@@ -325,6 +378,7 @@ Order Management
 <td align="center">🗄️<br><b>MySQL</b><br><sub>Database Design</sub></td>
 <td align="center">🔌<br><b>REST API</b><br><sub>Integration</sub></td>
 </tr>
+
 <tr>
 <td align="center">🔐<br><b>Auth</b><br><sub>Roles & Access</sub></td>
 <td align="center">🧹<br><b>Clean Code</b><br><sub>Maintainability</sub></td>
@@ -337,7 +391,144 @@ Order Management
 
 ---
 
-# 📊 Developer Snapshot
+# 🧪 Developer Mode
+
+<div align="center">
+
+```text id="a3j6pt"
+╭──────────────────────────────────────────╮
+│                                          │
+│  👤 Name        : Bagas Surya            │
+│  🎓 Level       : Grade 12               │
+│  🏫 Major       : RPL                    │
+│  🌐 Focus       : Full-Stack Development │
+│  ⚛️ Frontend    : React                  │
+│  🔥 Backend     : Laravel                │
+│  🗄️ Database    : MySQL                  │
+│  🎧 Coding Mode : Chill                  │
+│  ☕ Coffee      : Optional               │
+│  🐛 Bugs        : Yes                    │
+│  🧠 Motivation   : Keep Building         │
+│                                          │
+╰──────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+# 🧠 My Development Philosophy
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
+
+<br><br>
+
+### Learn → Build → Break → Debug → Understand → Improve
+
+</div>
+
+I don't want to only memorize syntax.
+
+I want to understand:
+
+> **Why does this work?**
+
+And when it doesn't:
+
+> **Why doesn't this work?!** 😭
+
+That's usually where the real learning starts.
+
+---
+
+# 📈 Development Journey
+
+<div align="center">
+
+```text id="z0x1nm"
+HTML
+  ↓
+CSS
+  ↓
+JavaScript
+  ↓
+React ⚛️
+  ↓
+REST API 🔌
+  ↓
+Laravel 🔥
+  ↓
+MySQL 🗄️
+  ↓
+Full-Stack Projects 🚀
+  ↓
+More bugs 🐛
+  ↓
+More learning 🧠
+  ↓
+??? 👀
+```
+
+### The journey continues...
+
+</div>
+
+---
+
+# 🎯 Roadmap
+
+<div align="center">
+
+| Status | Goal                           |
+| :----: | :----------------------------- |
+|    ✅   | Learn HTML, CSS & JavaScript   |
+|    ✅   | Build web applications         |
+|    ✅   | Learn React                    |
+|    ✅   | Learn Laravel                  |
+|    ✅   | Work with MySQL                |
+|   🔄   | Improve Full-Stack Development |
+|   🔄   | Improve Database Architecture  |
+|   🔄   | Improve Git Workflow           |
+|   🔄   | Build Larger Applications      |
+|    ⏳   | Deploy More Projects           |
+|    ⏳   | Explore New Technologies       |
+|    ⏳   | Become a better developer      |
+
+</div>
+
+---
+
+# 😂 Developer Problems
+
+<div align="center">
+
+### Things every developer eventually says:
+
+```text
+"It should work."
+
+"It worked on my machine."
+
+"Wait... why is this undefined?"
+
+"Okay, I found the bug."
+
+"Never mind. There are three bugs."
+
+"I'll fix it tomorrow."
+
+*tomorrow arrives*
+
+"Okay, let's rewrite the whole thing." 💀
+```
+
+</div>
+
+---
+
+# 📊 GitHub Activity
 
 <div align="center">
 
@@ -349,163 +540,11 @@ Order Management
 
 ---
 
-# 🧭 My Development Journey
-
-<div align="center">
-
-```text
-                    ┌──────────────┐
-                    │     IDEA     │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │    LEARN     │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │    BUILD     │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │    ERROR     │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │    DEBUG     │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │  UNDERSTAND  │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │   IMPROVE    │
-                    └──────┬───────┘
-                           │
-                           └──────────────► 🚀
-```
-
-</div>
-
----
-
-# 🧪 Developer Mode
-
-<div align="center">
-
-### Current Developer Status
-
-```text
-╭──────────────────────────────────────╮
-│                                      │
-│  🧑‍💻 Developer       : Bagas Surya  │
-│  🎓 Level            : Grade 12      │
-│  🏫 Major            : RPL           │
-│  🌐 Focus            : Full-Stack    │
-│  ⚛️ Frontend         : React         │
-│  🔥 Backend          : Laravel       │
-│  🗄️ Database         : MySQL         │
-│  🔌 API              : REST          │
-│  🧠 Status            : Learning     │
-│  🚀 Motivation       : Keep Building │
-│                                      │
-╰──────────────────────────────────────╯
-```
-
-</div>
-
----
-
-# 💡 How I Learn
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="320" />
-
-<br><br>
-
-### I learn by building.
-
-</div>
-
-```text
-        📖 LEARN
-           │
-           ▼
-        💻 BUILD
-           │
-           ▼
-        💥 ERROR
-           │
-           ▼
-        🔎 SEARCH
-           │
-           ▼
-        🧠 UNDERSTAND
-           │
-           ▼
-        🔧 FIX
-           │
-           ▼
-        🚀 IMPROVE
-           │
-           └──────────────► BUILD AGAIN
-```
-
-> **The error isn't the end of the process.
-> The error is part of the learning process.**
-
----
-
-# 🎯 Roadmap
-
-<div align="center">
-
-| Status | Goal                              |
-| :----: | :-------------------------------- |
-|    ✅   | Learn HTML, CSS & JavaScript      |
-|    ✅   | Build web applications            |
-|    ✅   | Learn React                       |
-|    ✅   | Learn Laravel                     |
-|    ✅   | Work with MySQL                   |
-|   🔄   | Improve full-stack development    |
-|   🔄   | Improve database architecture     |
-|   🔄   | Learn better Git workflow         |
-|   🔄   | Build larger applications         |
-|    ⏳   | Deploy applications               |
-|    ⏳   | Explore more backend technologies |
-
-</div>
-
----
-
-# 🏆 What I Want to Become
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&center=true&vCenter=true&width=650&lines=Not+just+a+coder.;Not+just+a+framework+user.;A+developer+who+understands+the+system." />
-
-<br><br>
-
-> **I don't want to just learn how to write code.**
-> **I want to understand why the code works.**
-
-</div>
-
----
-
 # 📬 Contact
 
 <div align="center">
 
-If you want to connect, talk about technology, collaborate,
-or just say **"hello"** — feel free to reach out.
+### Want to talk about code, projects, or random tech stuff?
 
 <br>
 
@@ -514,8 +553,12 @@ or just say **"hello"** — feel free to reach out.
 </a>
 
 <a href="mailto:bagassurya5562@gmail.com">
-<img src="https://img.shields.io/badge/Email-bagassurya5562%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+<br><br>
+
+`No formal meeting required. 😎`
 
 </div>
 
@@ -523,15 +566,17 @@ or just say **"hello"** — feel free to reach out.
 
 <div align="center">
 
-### 🚀 Thanks for visiting my profile!
+## 👋 Thanks for stopping by!
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=600&lines=Keep+learning.;Keep+building.;Keep+improving.;See+you+in+the+next+commit+%F0%9F%91%8B" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=650&lines=Keep+learning.;Keep+building.;Don't+fear+the+bugs.;See+you+in+the+next+commit!+%F0%9F%9A%80" />
 
 <br><br>
 
-**`CODE` · `LEARN` · `BUILD` · `DEBUG` · `IMPROVE`**
+### ☕ `CODE` · 🎧 `CHILL` · 💻 `BUILD` · 🐛 `DEBUG` · 🚀 `REPEAT`
+
+<br>
+
+> **"One bug at a time."** 🐛
 
 <br>
 
