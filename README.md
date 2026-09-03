@@ -1,5 +1,3 @@
-<div align="center">
-
 # BAGAS SURYA
 
 ### Software Engineering Student · Full-Stack Developer in Progress
@@ -7,434 +5,241 @@
 **Grade 12 — Rekayasa Perangkat Lunak (RPL)**
 **SMK Negeri Tengaran**
 
-<br>
-
-[ GitHub ] · [ Projects ] · [ Learning ] · [ Contact ]
-
-<br>
-
-> **Building things, breaking things, understanding why, and building them better.**
-
-</div>
+> Building things, breaking things, understanding why, and building them better.
 
 ---
 
-# About
+## 👨‍💻 About Me
 
-I'm **Bagas Surya**, a Grade 12 Software Engineering student at **SMK Negeri Tengaran**.
+Hi! I'm **Bagas Surya**, a Software Engineering student who enjoys building web applications and learning how modern software systems work.
 
-I'm currently focused on learning **full-stack web development** and turning what I learn into real applications.
+My main focus is **full-stack web development**, especially understanding how the frontend, backend, API, and database work together as one system.
 
-My main interests are:
-
-* Frontend development
-* Backend development
-* REST API
-* Database design
-* Web application architecture
-* UI implementation
-* Software development workflow
-
-I don't consider myself an expert yet.
-
-I'm still learning, experimenting, debugging, rebuilding, and improving — one project at a time.
-
----
-
-# What I Build
+I'm still learning, experimenting, and improving through real projects rather than only following tutorials.
 
 ```text
-WEB APPLICATIONS
-├── E-Commerce
-├── Management Systems
-├── Service Platforms
-├── Simulation Tools
-└── REST API Applications
+Currently focused on
 
-SOFTWARE
-├── Desktop Applications
-├── Database-driven Applications
-└── GUI Projects
-
-DEVELOPER WORKFLOW
-├── Git
-├── GitHub
-├── API Integration
-├── Debugging
-└── Project-based Learning
+Frontend        → React, Vite, Tailwind CSS
+Backend         → Laravel, PHP, REST API
+Database        → MySQL
+Development     → Git, GitHub, API Integration
+Learning        → Full-Stack Development
 ```
 
 ---
 
-# Tech Stack
+## 🚀 Featured Projects
 
-<div align="center">
+### 🛒 ShoopAway
+
+**Full-stack multi-store e-commerce platform**
+
+ShoopAway is one of my biggest web development projects.
+The project focuses on building an e-commerce system where customers can browse products, manage their cart, place orders, and interact with multiple stores.
+
+**Built with:**
+
+`React` · `Vite` · `Laravel` · `MySQL` · `Tailwind CSS` · `DaisyUI` · `Axios` · `Zustand`
+
+**What I learned:**
+
+* Building a full-stack web application
+* Connecting React with a Laravel REST API
+* Designing database relationships
+* Managing application state
+* Building shopping cart functionality
+* Handling authentication and user roles
+* Working with Git and collaborative development
+
+---
+
+### 🚚 PackGo
+
+**Full-stack moving & transportation service platform**
+
+PackGo is a web application focused on moving and transportation services.
+
+The project includes service selection, vehicle/armada management, booking, checkout, payment flow, and order management.
+
+**Built with:**
+
+`React` · `Laravel` · `MySQL` · `REST API`
+
+**What I learned:**
+
+* Designing service-based applications
+* Building booking workflows
+* Connecting frontend and backend systems
+* Working with transactional data
+* Creating multi-step checkout flows
+* Managing application data through APIs
+
+---
+
+## 🧰 Tech Stack
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
+</p>
 
 ### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+</p>
 
-### Tools & Other
+### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,python" />
-
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-# Selected Projects
+## 🧠 Currently Learning
 
-## 01 — ShoopAway
+I'm currently improving my understanding of:
 
-### Full-Stack E-Commerce Platform
+* Full-stack web development
+* REST API architecture
+* Database design & relationships
+* Authentication & authorization
+* Frontend state management
+* Git & GitHub workflow
+* Clean and maintainable code
+* Better UI/UX implementation
 
-A multi-store e-commerce application built as one of my main full-stack projects.
+---
 
-The project explores how a real marketplace can connect:
+## 📈 My Development Journey
 
 ```text
-Customer
-   ↓
-Products
-   ↓
-Cart
-   ↓
-Checkout
-   ↓
-Orders
-   ↓
-Payment
+HTML / CSS / JavaScript
+          │
+          ▼
+      Web Projects
+          │
+          ▼
+        React
+          │
+          ▼
+      Laravel + PHP
+          │
+          ▼
+      REST API
+          │
+          ▼
+    MySQL & Database
+          │
+          ▼
+    Full-Stack Projects
+          │
+          ▼
+     Keep Building 🚀
 ```
 
-It also includes the concept of multiple stores and owner accounts.
-
-### Focus
-
-* Product management
-* Store management
-* Customer experience
-* Shopping cart
-* Checkout
-* Orders
-* Payment flow
-* Owner functionality
-* REST API
-* Database relationships
-
-**Stack:**
-`React` `Vite` `Laravel` `PHP` `MySQL` `Axios` `Tailwind CSS` `DaisyUI`
+I'm currently at the stage where I'm trying to understand **how everything connects together**, not just how to write individual pieces of code.
 
 ---
 
-## 02 — DESDB
+## 🛠️ How I Learn
 
-### Multi-Store E-Commerce System
+I learn best by building.
 
-A project focused on understanding the relationship between frontend, backend, API, authentication, and relational database design.
-
-One of the important concepts explored in this project is separating user roles while keeping the account system flexible:
+Instead of only studying concepts, I try to turn them into actual projects and solve problems as they appear.
 
 ```text
-                     USER
-                    /    \
-                   /      \
-             CUSTOMER     OWNER
-                            |
-                           STORE
-                            |
-                         PRODUCTS
+Learn
+  ↓
+Build
+  ↓
+Break something
+  ↓
+Find the problem
+  ↓
+Understand the cause
+  ↓
+Fix it
+  ↓
+Improve
+  ↓
+Build again
 ```
 
-The project also explores:
-
-* Orders
-* Order details
-* Payments
-* Products
-* Stores
-* Customer data
-* Owner data
-* API integration
-* Relational database design
-
-**Stack:**
-`React` `Laravel` `PHP` `MySQL` `REST API`
+Every project teaches me something new.
 
 ---
 
-## 03 — PackGo
+## 🎯 Goals
 
-### Moving & Transportation Service Platform
+### Short Term
 
-A web application concept for transportation and moving services.
+* Improve my frontend development skills
+* Become more comfortable with Laravel
+* Understand backend architecture better
+* Improve database design
+* Build cleaner and more maintainable applications
 
-The project introduced me to building a larger application with multiple interconnected features.
+### Long Term
 
-### Features explored
-
-* Moving services
-* Armada management
-* Booking
-* Checkout
-* Payment
-* Insurance
-* Order management
-* Admin functionality
-
-**Stack:**
-`React` `Laravel` `PHP` `MySQL`
+> Become a developer who understands not only **how to build software**, but also **why it should be built that way**.
 
 ---
 
-## 04 — Car Credit Calculator
+## 📚 Other Projects
 
-### Vehicle Financing Simulator
+Besides my two main projects, I've also worked on smaller projects while learning different technologies.
 
-A lightweight web application created to strengthen my understanding of web fundamentals without relying on a frontend framework.
+### 🧮 Car Credit Calculator
 
-The application focuses on calculating vehicle financing simulations through user input.
+A vanilla HTML, CSS, and JavaScript project for calculating car credit simulations.
 
-**Stack:**
-`HTML` `CSS` `JavaScript`
+### 📚 Library Management System
 
----
+A Python-based application for managing library data and operations.
 
-## 05 — Library Management System
-
-### Python Desktop Application
-
-A desktop-based library application created as part of my programming practice.
-
-The project helped me understand:
-
-* GUI development
-* Application logic
-* User input
-* Data management
-* Event-driven programming
-
-**Stack:**
-`Python` `Tkinter`
+These smaller projects are part of my learning journey toward becoming a better developer.
 
 ---
 
-## 06 — Python Graphics Projects
+## 💭 Developer Mindset
 
-### Learning Through Visual Programming
+> **Don't just copy the code. Understand what the code is doing.**
 
-A collection of smaller projects created while learning graphical programming with Python.
+I'm still at the beginning of my journey, but every project gives me a better understanding of software development.
 
-Projects include:
+The goal isn't to know everything.
 
-* Simple image editing
-* Image resizing
-* Image rotation
-* Basic filters
-* Drawing applications
-* Lines
-* Circles
-* Rectangles
-* Coloring
-
-**Stack:**
-`Python` `Tkinter` `Pillow`
+The goal is to **keep learning, keep building, and keep improving.**
 
 ---
 
-# Development Journey
+## 📊 GitHub
 
-My development journey is still in progress.
+I'm using GitHub not only to store my code, but also to document my progress as I learn software development.
 
 ```text
-HTML / CSS
-     │
-     ▼
-JavaScript
-     │
-     ▼
-Web Fundamentals
-     │
-     ▼
-React
-     │
-     ▼
-REST API
-     │
-     ▼
-Laravel / PHP
-     │
-     ▼
-MySQL & Database Design
-     │
-     ▼
-Full-Stack Applications
-     │
-     ▼
-       ●
-     CURRENT
+Projects      → Build real things
+Repositories  → Document the journey
+Git            → Learn collaboration
+GitHub         → Share the work
 ```
 
-Each stage came from building something.
-
-Not everything worked on the first try.
-
-That's part of the process.
-
 ---
 
-# Currently Learning
+## 🤝 Let's Connect
 
-### React
+I'm always interested in learning new things, exploring technologies, and building useful projects.
 
-Working on component structure, routing, state management, API integration, and building larger frontend applications.
+If you're also learning software development:
 
-### Laravel
-
-Learning backend architecture, controllers, models, migrations, authentication, relationships, and REST APIs.
-
-### Database
-
-Improving my understanding of:
-
-```text
-Tables
-  ↓
-Primary Keys
-  ↓
-Foreign Keys
-  ↓
-Relationships
-  ↓
-Queries
-  ↓
-API Data
-```
-
-### Git & GitHub
-
-Learning how to work with:
-
-* Branches
-* Commits
-* Merge
-* Pull Requests
-* Remote repositories
-* Collaborative development
+**Keep building. Keep experimenting. Keep improving. 🚀**
 
 ---
-
-# How I Learn
-
-I learn best by **building**.
-
-```text
-IDEA
- ↓
-BUILD
- ↓
-ERROR
- ↓
-DEBUG
- ↓
-UNDERSTAND
- ↓
-IMPROVE
- ↓
-REBUILD
-```
-
-A bug isn't just something that needs to disappear.
-
-It's something that usually has something to teach me.
-
----
-
-# GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bagbas&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagbas&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=bagbas&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# Contribution
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-# Beyond Code
-
-Programming has taught me more than syntax.
-
-It has taught me how to:
-
-* Break large problems into smaller ones
-* Read documentation
-* Search for solutions
-* Debug patiently
-* Work with other people
-* Understand existing code
-* Keep learning when something doesn't work
-
-Those skills matter just as much as the technology itself.
-
----
-
-# Goals
-
-### Now
-
-Become stronger at building complete applications from frontend to backend.
-
-### Next
-
-Build more complex applications with better architecture, cleaner code, and better user experiences.
-
-### Eventually
-
-Become a professional software developer capable of building useful products and solving real-world problems.
-
----
-
-<div align="center">
 
 # KEEP BUILDING.
 
-### I'm still at the beginning of the journey.
-
-**Grade 12 RPL → Developer → Software Engineer**
-
-<br>
-
-`Learn` · `Build` · `Debug` · `Improve`
-
-<br>
-
----
-
-### Thanks for stopping by.
-
-**— Bagas Surya · @bagbas**
-
-</div>
+`Code` · `Learn` · `Build` · `Improve`
