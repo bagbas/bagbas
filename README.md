@@ -2,781 +2,655 @@
 
 # 👋 HEY, I'M BAGAS!
 
-### `Software Engineering Student` · `Full-Stack Developer in Progress`
+### 💻 RPL Student • Developer • Problem Solver • Cat Enjoyer 🐈
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Welcome+to+my+little+corner+of+GitHub!;I+build+web+applications;React+%2B+Laravel+%2B+MySQL;Currently+turning+coffee+into+code+%E2%98%95;Sometimes+the+code+works...+somehow+%F0%9F%98%AD" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+build+things+with+code+%F0%9F%92%BB;Sometimes+the+code+works+%F0%9F%98%AD;Sometimes+the+cat+fixes+it+%F0%9F%90%88" alt="Typing SVG" />
 
 <br>
 
 <a href="https://github.com/bagbas">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-bagbas-181717?style=for-the-badge&logo=github" />
 </a>
-<a href="#-featured-projects">
-<img src="https://img.shields.io/badge/Projects-0D1117?style=for-the-badge&logo=rocket&logoColor=white" />
+
+<a href="https://github.com/bagbas?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-Explore-2ea44f?style=for-the-badge&logo=github" />
 </a>
-<a href="#-tech-stack">
-<img src="https://img.shields.io/badge/Stack-0D1117?style=for-the-badge&logo=code&logoColor=white" />
-</a>
-<a href="#-contact">
-<img src="https://img.shields.io/badge/Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=white" />
+
+<a href="#-lets-connect">
+<img src="https://img.shields.io/badge/Contact-Let's%20Connect-blue?style=for-the-badge&logo=gmail" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=bagbas&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=bagbas&label=Profile%20Views&color=0e75b6&style=flat" />
 
 <br><br>
 
-> 🧑‍💻 **Code seriously. Have fun while doing it.**
+> **"Code seriously. Have fun while doing it."** 😎
 >
-> 🐈 **And yes, cats are part of the development team.**
+> 🐈 *Cats are not distractions. They are part of the development team.*
 
 </div>
 
 ---
+
+## 🐱 CURRENT STATUS
 
 <div align="center">
 
-## 🟢 `CURRENT STATUS`
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250">
 
-### Probably debugging something...
+### 🧑‍💻 Bagas is currently coding...
 
-<img src="./assets/gifs/cat-typing.gif" width="320" />
-
-<br>
-
-`Coding...` · `Debugging...` · `Meowing...`
+```text
+╭────────────────────────────────────╮
+│                                    │
+│  💻 Status      : Coding           │
+│  ☕ Coffee      : █████████░ 92%   │
+│  🧠 Motivation  : ████████░░ 80%   │
+│  🐛 Bugs        : ██████████ 100%  │
+│  😴 Sleep       : command not found│
+│                                    │
+╰────────────────────────────────────╯
+```
 
 </div>
 
 ---
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│  bagas@github:~$ whoami                                      │
-│                                                              │
-│  > Bagas Surya                                               │
-│  > Grade 12 RPL Student                                      │
-│  > SMK Negeri Tengaran                                       │
-│                                                              │
-│  bagas@github:~$ mood                                        │
-│                                                              │
-│  > chill 😎                                                  │
-│                                                              │
-│  bagas@github:~$ currently                                   │
-│                                                              │
-│  > Building things                                           │
-│  > Learning things                                           │
-│  > Breaking things                                           │
-│  > Fixing things                                             │
-│                                                              │
-│  bagas@github:~$ coffee                                      │
-│                                                              │
-│  > ████████████████████░░ 92% ☕                             │
-│                                                              │
-│  bagas@github:~$ sleep                                       │
-│                                                              │
-│  > command not found                                         │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
+# 👨‍💻 ABOUT ME
 
----
+Hi! I'm **Bagas Surya**, a **Grade 12 Software Engineering (RPL) student at SMK Negeri Tengaran** who enjoys turning ideas into applications.
 
-# 👨‍💻 About Me
+I'm currently learning and building projects around:
 
-<table>
-<tr>
-<td width="62%">
-
-Hi! I'm **Bagas Surya**, a Grade 12 **Software Engineering (RPL)** student at **SMK Negeri Tengaran**.
-
-I enjoy building web applications, learning new technologies, and figuring out why something that *should* work... doesn't. 😭
-
-My main focus right now is **full-stack web development**.
-
-I like working with:
-
+* 🌐 Web Development
 * ⚛️ React
-* 🔥 Laravel & PHP
+* 🐘 Laravel
 * 🗄️ MySQL
-* 🔌 REST API
 * 🎨 Tailwind CSS
-* 🧰 Git & GitHub
+* 🧩 DaisyUI
+* 🐍 Python
+* 🔌 REST API
+* 🧠 Database Design
+* 🔧 Git & GitHub
 
-I'm still learning, so you'll probably find bugs in my projects.
-
-That's okay.
-
-**The bugs are learning opportunities.**
-
-...at least that's what I tell myself. 😂
-
-</td>
-
-<td width="38%" align="center">
-
-<img src="./assets/gifs/coding.gif" width="280" />
-
-<br><br>
-
-### Current mood:
-
-`☕ + 💻 + 🎧 + 🐈`
-
-</td>
-</tr>
-</table>
-
----
-
-# 🐈 Important Information
-
-<div align="center">
-
-### My unofficial development assistant:
-
-<img src="./assets/gifs/cat-confused.gif" width="280" />
-
-<br>
-
-**Name:** `Probably Cat`
-
-**Job:** `Senior Bug Consultant`
-
-**Experience:** `9 lives`
-
-**Specialization:** `Staring at the screen`
-
-**Salary:** `Treats`
-
-**Productivity:** `Depends on the mood`
-
-</div>
-
-<br>
-
-> Unfortunately, the cat still hasn't fixed any bugs.
-
----
-
-# 🧃 A Few Things About Me
-
-<div align="center">
-
-|     🧑‍💻 Developer    |   😎 Personality   | 🧠 Learning Style |    🐈 Assistant   |
-| :--------------------: | :----------------: | :---------------: | :---------------: |
-| Full-Stack in progress |     Fun & chill    | Learn by building |        Cat        |
-|     React + Laravel    |     Don't panic    |    Break & fix    |     Also chill    |
-|       API enjoyer      | Probably debugging |     Ask "why?"    | Probably sleeping |
-
-</div>
-
----
-
-# 📊 My Totally Scientific Statistics
-
-<div align="center">
+My current development formula:
 
 ```text
-Coding                 █████████████████░░░  85%
-Debugging              ████████████████████ 100%
-Googling               ███████████████████░  95%
-Understanding the bug  ███████████░░░░░░░░░  55%
-Creating new bugs      ████████████████████ 100%
-Explaining the bug     ████████░░░░░░░░░░░░  40%
-Sleeping               ███████░░░░░░░░░░░░░  35%
-Cat appreciation       ████████████████████ 100%
+☕ + 💻 + 🎧 + 🐈 = 🚀
 ```
 
-*Statistics may or may not be scientifically accurate.* 🤓
+<div align="center">
+
+<img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="300">
 
 </div>
 
 ---
 
-# ⚡ Quick Overview
+# 🐈 MEET MY DEVELOPMENT TEAM
 
-<div align="center">
+Every developer needs a reliable team.
 
-|     🎓 Education    |     💻 Focus    | 🏆 Main Projects |   ☕ Fuel  |   🐈 Team  |
-| :-----------------: | :-------------: | :--------------: | :-------: | :--------: |
-|     Grade 12 RPL    |    Full-Stack   |     ShoopAway    |   Coffee  |    Cats    |
-| SMK Negeri Tengaran | Web Development |      PackGo      | Sometimes | Definitely |
+So here's mine:
 
-</div>
+```text
+╭──────────────────────────────────────╮
+│       🐈 PROBABLY CAT               │
+│                                      │
+│  Position : Senior Bug Consultant    │
+│  Experience : 9 lives                │
+│  Specialty : Finding bugs            │
+│  Productivity : Questionable         │
+│  Sleep : Professional                │
+│                                      │
+│  Main responsibilities:              │
+│  • Staring at the monitor            │
+│  • Walking across the keyboard       │
+│  • Interrupting debugging sessions   │
+│  • Sleeping during production        │
+│  • Providing emotional support       │
+╰──────────────────────────────────────╯
+```
 
----
+### 🐾 Performance Review
 
-# 🚀 Featured Projects
+| Department               | Performance |
+| ------------------------ | ----------: |
+| 🐛 Bug Detection         |        100% |
+| ⌨️ Keyboard Interference |        110% |
+| 😴 Sleeping              |        100% |
+| 💻 Actual Coding         |       0.01% |
+| 🐈 Being Cute            |          ∞% |
 
-<div align="center">
-
-# 🛒 ShoopAway
-
-### `Multi-Store E-Commerce Platform`
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logo=daisyui&logoColor=white" />
-
-<br><br>
-
-> 🏆 **One of my biggest full-stack projects**
+> **Management says the cat is doing great.**
 >
-> 🐛 Bugs: `classified information`
+> I have no idea what management means.
 
-</div>
+---
 
-<table>
-<tr>
-<td width="50%">
+# 🚀 FEATURED PROJECTS
 
-### 🛍️ What's ShoopAway?
+These are currently my two biggest projects.
 
-ShoopAway is a **multi-store e-commerce platform** where customers can browse products, interact with different stores, manage their cart, and place orders.
+---
 
-The project combines frontend, backend, API, database, authentication, and state management into one application.
+## 🛒 ShoopAway
 
-</td>
+### Full-Stack Multi-Store E-Commerce Platform
 
-<td width="50%">
+ShoopAway is a full-stack e-commerce project designed around a **multi-store marketplace system**.
 
-### 🔄 System Flow
+The project focuses on building an online shopping experience where customers can browse products from multiple stores, manage their cart, checkout, and manage orders.
+
+### ⚙️ Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge" />
+</p>
+
+### 🧩 Main Features
 
 ```text
 Customer
    │
-   ├── Browse
-   ├── Shop
-   ├── Cart 🛒
+   ├── Register / Login
+   ├── Browse Products
+   ├── Browse Stores
+   ├── Product Details
+   ├── Shopping Cart
    ├── Checkout
-   └── Orders
-        │
-        ▼
-     REST API
-        │
-        ▼
-     Laravel 🔥
-        │
-        ▼
-      MySQL
+   ├── Payment
+   └── Order History
+
+Owner
+   │
+   ├── Owner Registration
+   ├── Store Management
+   ├── Product Management
+   └── Order Management
+
+Backend
+   │
+   ├── Laravel REST API
+   ├── MySQL Database
+   ├── Authentication
+   └── Business Logic
 ```
 
-</td>
-</tr>
-</table>
+### 🧠 What I learned
 
-<details>
-<summary><b>✨ Things I worked with</b></summary>
-
-<br>
-
-* React
-* Vite
-* Laravel
-* PHP
-* MySQL
-* REST API
-* Axios
-* Zustand
-* Tailwind CSS
-* DaisyUI
-* Authentication
-* User roles
-* Shopping cart
-* Order management
-* Multi-store concept
+* Building a REST API
+* Connecting React with Laravel
+* Managing frontend state
+* Shopping cart architecture
+* Multi-store database relationships
+* Authentication & authorization
 * Git collaboration
-* Debugging
+* Debugging frontend/backend problems
 
-</details>
-
-<div align="center">
-
-<br>
-
-<img src="./assets/gifs/cat-typing.gif" width="230" />
-
-<br>
-
-### Meanwhile, the cat:
-
-`"Have you tried turning it off and on again?"` 🐈
-
-</div>
+> 🐛 **Bug level:** Sometimes the bug is in React.
+>
+> Sometimes Laravel.
+>
+> Sometimes MySQL.
+>
+> Sometimes... me.
 
 ---
 
 <div align="center">
 
-# 🚚 PackGo
+### 🐈 Meanwhile, the development team...
 
-### `Moving & Transportation Service Platform`
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white" />
-
-<br><br>
-
-> 🚚 **Full-stack platform for moving & transportation services**
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250">
 
 </div>
 
-<table>
-<tr>
-<td width="50%">
+---
 
-### 📦 What's PackGo?
+## 📦 PackGo
 
-PackGo is a web application focused on **moving and transportation services**.
+### Full-Stack Moving & Transportation Service Platform
 
-The application explores the workflow from selecting a service and vehicle to booking, checkout, payment, and order management.
+PackGo is a web application designed for **moving and transportation services**.
 
-</td>
+The application handles the process from selecting transportation services to creating bookings and managing orders.
 
-<td width="50%">
+### ⚙️ Tech Stack
 
-### 🔄 Application Flow
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+### 🚚 Main Features
 
 ```text
-Choose Service
-      │
-      ▼
-Choose Armada 🚚
-      │
-      ▼
-   Booking
-      │
-      ▼
-   Checkout
-      │
-      ▼
-   Payment
-      │
-      ▼
-Order Management
+Customer
+   │
+   ├── Browse Services
+   ├── Select Armada
+   ├── Create Booking
+   ├── Choose Payment
+   ├── Insurance
+   └── Track Order
+
+              ↓
+
+         Laravel API
+
+              ↓
+
+           MySQL
 ```
 
-</td>
-</tr>
-</table>
+### 🧠 What I learned
 
-<details>
-<summary><b>✨ Things I learned</b></summary>
-
-<br>
-
-* React frontend
-* Laravel backend
-* REST API
-* Booking workflow
-* Armada management
-* Multi-step checkout
-* Payment flow
-* Order management
+* Building booking systems
+* Designing API endpoints
+* Handling order workflows
+* Payment flow concepts
+* Connecting frontend and backend
 * Database relationships
-* Frontend-backend communication
-
-</details>
-
-<div align="center">
-
-<br>
-
-<img src="./assets/gifs/cat-dancing.gif" width="240" />
-
-<br>
-
-### PackGo shipped successfully.
-
-`Probably.` 😭
-
-</div>
+* Form validation
+* Admin-side management
 
 ---
 
-# 🧰 Tech Stack
+# 🛠️ TECH STACK
 
-<div align="center">
+### 🌐 Frontend
 
-### 🎨 Frontend
-
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
+</p>
 
-<br><br>
+### ⚙️ Backend
 
-### ⚙️ Backend & Database
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+### 🗄️ Database
 
-<br><br>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-### 🛠️ Tools
+### 🐍 Other
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-
-</div>
-
----
-
-# 🧠 Currently Learning
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">⚛️<br><b>React</b><br><sub>Components & State</sub></td>
-<td align="center">🔥<br><b>Laravel</b><br><sub>Backend & API</sub></td>
-<td align="center">🗄️<br><b>MySQL</b><br><sub>Database Design</sub></td>
-<td align="center">🔌<br><b>REST API</b><br><sub>Integration</sub></td>
-</tr>
-
-<tr>
-<td align="center">🔐<br><b>Auth</b><br><sub>Roles & Access</sub></td>
-<td align="center">🧹<br><b>Clean Code</b><br><sub>Maintainability</sub></td>
-<td align="center">🤝<br><b>Git</b><br><sub>Collaboration</sub></td>
-<td align="center">🌐<br><b>Deployment</b><br><sub>Production</sub></td>
-</tr>
-</table>
-
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+</p>
 
 ---
 
-# 🐛 Debugging Department
-
-<div align="center">
-
-<img src="./assets/gifs/cat-confused.gif" width="280" />
-
-<br><br>
-
-### Current investigation:
+# 📚 CURRENTLY LEARNING
 
 ```text
-╭─────────────────────────────────────────╮
-│                                         │
-│  ❌ Application doesn't work            │
-│                                         │
-│  🔎 Looking for the problem...          │
-│                                         │
-│  🔎 Looking harder...                   │
-│                                         │
-│  🔎 Looking at Stack Overflow...        │
-│                                         │
-│  🧠 Understanding the problem...        │
-│                                         │
-│  🔧 Fixing the problem...               │
-│                                         │
-│  ❗ New problem discovered               │
-│                                         │
-│  🐈 Cat has left the meeting.           │
-│                                         │
-╰─────────────────────────────────────────╯
+████████████████████████████  React
+██████████████████████████░░  Laravel
+████████████████████████░░░░  REST API
+██████████████████████░░░░░░  Database Design
+████████████████████░░░░░░░░  JavaScript
+██████████████████░░░░░░░░░░  UI/UX
+████████████████░░░░░░░░░░░░  Software Architecture
 ```
 
-</div>
+My goal isn't to know everything.
+
+My goal is to **keep improving and actually build things.**
 
 ---
 
-# 🧪 Developer Mode
+# 🐛 DEBUGGING DEPARTMENT
 
 <div align="center">
 
-```text
-╭──────────────────────────────────────────╮
-│                                          │
-│  👤 Name        : Bagas Surya            │
-│  🎓 Level       : Grade 12               │
-│  🏫 Major       : RPL                    │
-│  🌐 Focus       : Full-Stack Development │
-│  ⚛️ Frontend    : React                  │
-│  🔥 Backend     : Laravel                │
-│  🗄️ Database    : MySQL                 │
-│  🔌 API         : REST                   │
-│  🎧 Coding Mode : Chill                  │
-│  ☕ Coffee      : Optional               │
-│  🐛 Bugs        : Yes                    │
-│  🐈 Cat Support : Critical               │
-│  🧠 Motivation  : Keep Building          │
-│                                          │
-╰──────────────────────────────────────────╯
-```
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280">
 
 </div>
+
+Every developer knows this cycle:
+
+```text
+Write Code
+    ↓
+Run Project
+    ↓
+💥 ERROR
+    ↓
+Read Error
+    ↓
+Google / Documentation
+    ↓
+Change One Line
+    ↓
+💥 Different Error
+    ↓
+Change Another Line
+    ↓
+IT WORKS! 🎉
+    ↓
+Don't Touch Anything
+```
+
+### Developer Rule #1
+
+> **If it works, don't ask why.**
+
+### Developer Rule #2
+
+> **If it doesn't work, read the error first.** 😭
 
 ---
 
-# 🧠 How I Learn
+# 🎯 HOW I LEARN
 
-<div align="center">
+I learn best by **building actual projects**.
 
-<img src="./assets/gifs/cat-typing.gif" width="300" />
-
-<br><br>
-
-### Learn → Build → Break → Debug → Understand → Improve
-
-</div>
+Instead of only reading documentation, I prefer:
 
 ```text
-        📖 LEARN
-           │
-           ▼
-        💻 BUILD
-           │
-           ▼
-        💥 ERROR
-           │
-           ▼
-        🔎 SEARCH
-           │
-           ▼
-        🧠 UNDERSTAND
-           │
-           ▼
-        🔧 FIX
-           │
-           ▼
-        🚀 IMPROVE
-           │
-           └──────────────► BUILD AGAIN
+📖 Learn Concept
+      ↓
+💻 Try It
+      ↓
+🐛 Get Error
+      ↓
+🔎 Find The Cause
+      ↓
+🛠️ Fix It
+      ↓
+🧠 Understand Why
+      ↓
+🚀 Use It In A Project
 ```
 
-> I don't want to only memorize syntax.
->
-> I want to understand **why** the code works.
->
-> And when it doesn't:
->
-> **"WHY DOESN'T THIS WORK?!"** 😭
+That's how most of my development journey has happened.
 
 ---
 
-# 🐈 Cat-Driven Development
-
-<div align="center">
-
-### Sometimes I don't code alone.
-
-<img src="./assets/gifs/cat-sleeping.gif" width="300" />
-
-<br><br>
+# 📈 DEVELOPMENT JOURNEY
 
 ```text
-Me:
-"Let's finish this feature today."
-
-Cat:
-"meow."
-
-Me:
-"That's not very helpful."
-
-Cat:
-"meow."
-
-Me:
-"...fair enough."
-```
-
-</div>
-
-### Official workflow
-
-```text
-        💻 Code
-          ↓
-        🐛 Bug
-          ↓
-        🐈 Ask Cat
-          ↓
-        🐈 Stare
-          ↓
-        💡 Somehow get an idea
-          ↓
-        🔧 Fix Bug
-          ↓
-        🎉 Success
-          ↓
-        🐈 Cat gets the credit
+🐣 Started Programming
+        │
+        ▼
+🌐 HTML / CSS / JavaScript
+        │
+        ▼
+🐍 Python
+        │
+        ▼
+🗄️ Database & SQL
+        │
+        ▼
+🐘 Laravel
+        │
+        ▼
+⚛️ React
+        │
+        ▼
+🔌 REST API
+        │
+        ▼
+🛒 ShoopAway
+        │
+        ▼
+📦 PackGo
+        │
+        ▼
+🚀 More Projects Coming...
 ```
 
 ---
 
-# 📈 Development Journey
+# 🎮 DEVELOPER MODE
 
-<div align="center">
+```javascript
+const bagas = {
+    name: "Bagas Surya",
+    role: "RPL Student",
+    school: "SMK Negeri Tengaran",
 
-```text
-HTML
-  ↓
-CSS
-  ↓
-JavaScript
-  ↓
-React ⚛️
-  ↓
-REST API 🔌
-  ↓
-Laravel 🔥
-  ↓
-MySQL 🗄️
-  ↓
-Full-Stack Projects 🚀
-  ↓
-More bugs 🐛
-  ↓
-More learning 🧠
-  ↓
-More cats 🐈
-  ↓
-??? 👀
+    interests: [
+        "Web Development",
+        "React",
+        "Laravel",
+        "MySQL",
+        "Python",
+        "UI/UX"
+    ],
+
+    favoriteThings: [
+        "Coding",
+        "Building Projects",
+        "Learning New Things",
+        "Cats 🐈",
+        "Music 🎧"
+    ],
+
+    currentlyDoing: "Building something cool 🚀"
+};
 ```
-
-### The journey continues...
-
-</div>
 
 ---
 
-# 😂 Developer Problems
+# 🧪 TOTALLY SCIENTIFIC STATISTICS
+
+| Category                |      Result |
+| ----------------------- | ----------: |
+| 💻 Coding               |         87% |
+| ☕ Coffee dependency     |         92% |
+| 🐛 Bugs encountered     |        100% |
+| 🧠 Learning             |         89% |
+| 🎧 Music while coding   |         95% |
+| 🐈 Cat appreciation     |        100% |
+| 😴 Sleep                | `undefined` |
+| 🚀 Want to build things |           ∞ |
+
+*These statistics were calculated using highly advanced developer mathematics.*
+
+---
+
+# 🗺️ ROADMAP
+
+### 2026
+
+* [x] Learn HTML / CSS / JavaScript
+* [x] Learn PHP & Laravel
+* [x] Learn MySQL
+* [x] Learn React
+* [x] Build full-stack projects
+* [x] Learn REST API
+* [x] Work with Git & GitHub
+* [x] Build ShoopAway
+* [x] Build PackGo
+* [ ] Improve software architecture
+* [ ] Improve UI/UX
+* [ ] Build more real-world projects
+* [ ] Create a personal portfolio website
+
+---
+
+# 📊 GITHUB ACTIVITY
 
 <div align="center">
 
-<img src="./assets/gifs/cat-confused.gif" width="250" />
-
-<br><br>
-
-### Things every developer eventually says:
-
-```text
-"It should work."
-
-"It worked on my machine."
-
-"Wait... why is this undefined?"
-
-"Okay, I found the bug."
-
-"Never mind. There are three bugs."
-
-"I'll fix it tomorrow."
-
-*tomorrow arrives*
-
-"Okay, let's rewrite the whole thing." 💀
-```
+<img src="https://github-readme-stats.vercel.app/api?username=bagbas&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <br>
 
-### Bonus:
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bagbas&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐈 CAT-DRIVEN DEVELOPMENT
+
+Some developers use Agile.
+
+Some use Scrum.
+
+I use:
 
 ```text
-Me:
-"Finally, everything works!"
-
-Git:
-"Merge conflict."
-
-Me:
-"..."
-
-Cat:
-"meow."
+                 🐈
+                  │
+                  ▼
+          "What are you doing?"
+                  │
+                  ▼
+            Open VS Code
+                  │
+                  ▼
+              Write Code
+                  │
+                  ▼
+             Find a Bug
+                  │
+                  ▼
+              Ask Cat
+                  │
+                  ▼
+          Cat provides no answer
+                  │
+                  ▼
+             Fix it myself
+                  │
+                  ▼
+                 🎉
 ```
 
-</div>
+> **10/10 methodology. Would recommend.**
 
 ---
 
-# 🎯 Roadmap
+# 🧑‍💻 DEVELOPER PROBLEMS
 
-<div align="center">
+### Normal developer:
 
-| Status | Goal                           |
-| :----: | :----------------------------- |
-|    ✅   | Learn HTML, CSS & JavaScript   |
-|    ✅   | Build web applications         |
-|    ✅   | Learn React                    |
-|    ✅   | Learn Laravel                  |
-|    ✅   | Work with MySQL                |
-|   🔄   | Improve Full-Stack Development |
-|   🔄   | Improve Database Architecture  |
-|   🔄   | Improve Git Workflow           |
-|   🔄   | Build Larger Applications      |
-|    ⏳   | Deploy More Projects           |
-|    ⏳   | Explore New Technologies       |
-|    ⏳   | Become a better developer      |
-|   ♾️   | Keep learning                  |
-|   ♾️   | Keep building                  |
+```text
+"I found a bug."
+```
 
-</div>
+### Me:
 
----
+```text
+"I found a bug."
 
-# 📊 GitHub Activity
+        ↓
 
-<div align="center">
+"Let's fix it."
 
-<img src="https://github-readme-stats.vercel.app/api?username=bagbas&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" />
+        ↓
 
-<img src="https://github-readme-streak-stats.demolab.com?user=bagbas&hide_border=true" height="170" />
+"Why did this create another bug?"
 
-</div>
+        ↓
 
----
+"Why is the database doing this?"
 
-# 🏆 Final Boss
+        ↓
 
-<div align="center">
+"Why is the API returning this?"
 
-<img src="./assets/gifs/cat-dancing.gif" width="280" />
+        ↓
 
-<br><br>
+"WHY IS THE FRONTEND WHITE?"
 
-### Successfully reached the bottom.
+        ↓
 
-### You survived my README. 🎉
+"Never mind."
 
-<br>
+        ↓
 
-`Achievement Unlocked: README Explorer`
-
-</div>
+"It works."
+```
 
 ---
 
-# 📬 Contact
+# 🏆 PROJECT PHILOSOPHY
+
+I don't want to only collect tutorials.
+
+I want to **build things**.
+
+Every project teaches something new:
+
+```text
+Project
+   ↓
+Problem
+   ↓
+Research
+   ↓
+Implementation
+   ↓
+Bug
+   ↓
+Debugging
+   ↓
+Understanding
+   ↓
+Experience
+```
+
+That's the part of programming I enjoy the most.
+
+---
+
+# 🚀 WHAT'S NEXT?
+
+I'm still learning, still experimenting, and still building.
+
+My next goals:
+
+* 🌐 Build more production-style web applications
+* ⚛️ Improve React architecture
+* 🐘 Improve Laravel backend development
+* 🗄️ Become better at database design
+* 🎨 Improve UI/UX
+* 🔌 Build cleaner APIs
+* 🧠 Learn better software architecture
+* 🚀 Build projects that solve real problems
+
+---
+
+# 📬 LET'S CONNECT
 
 <div align="center">
 
-### Want to talk about code, projects, or random tech stuff?
+If you're interested in coding, web development, or just want to say hi:
 
 <br>
 
 <a href="https://github.com/bagbas">
-<img src="https://img.shields.io/badge/GitHub-bagbas-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:bagassurya5562@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-bagbas-181717?style=for-the-badge&logo=github" />
 </a>
 
 <br><br>
 
-`No formal meeting required. 😎`
+### Thanks for visiting my profile! 👋
+
+<img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="250">
+
+### Keep coding. Keep learning. Keep building. 🚀
 
 <br>
 
-`Cats are welcome. 🐈`
+🐈 **And don't forget to give your cat a proper code review.**
 
 </div>
 
@@ -784,24 +658,18 @@ Cat:
 
 <div align="center">
 
-<img src="./assets/gifs/cat-sleeping.gif" width="220" />
+```text
+╭────────────────────────────────────────────╮
+│                                            │
+│       💻 CODE • LEARN • BUILD • REPEAT    │
+│                                            │
+│                  🐈                       │
+│             Senior Developer              │
+│               Assistant                   │
+│                                            │
+╰────────────────────────────────────────────╯
+```
 
-<br>
-
-### 👋 Thanks for stopping by!
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=650&lines=Keep+learning.;Keep+building.;Don't+fear+the+bugs.;Take+a+break+sometimes.;See+you+in+the+next+commit!+%F0%9F%9A%80" />
-
-<br><br>
-
-### ☕ `CODE` · 🎧 `CHILL` · 💻 `BUILD` · 🐛 `DEBUG` · 🐈 `MEOW`
-
-<br>
-
-> **One bug at a time.** 🐛
-
-<br>
-
-### `KEEP BUILDING. 🚀`
+### 😴 Cat has left the development room.
 
 </div>
